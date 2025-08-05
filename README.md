@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Yusqo Hidayatulhaq 👋<br>Informatics student 💻 | Web Weveloper 🌐<br>Always learning and building cool stuff 🚀<br>Let's connect and collaborate!
+Hi, I'm Yusqo Hidayatulhaq 👋<br>Informatics student 💻 | Web Developer 🌐<br>Always learning and building cool stuff 🚀<br>Let's connect and collaborate!
 
 
 ## 🌐 Socials:
